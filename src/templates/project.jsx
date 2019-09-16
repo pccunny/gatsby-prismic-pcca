@@ -150,6 +150,7 @@ export const query = graphql`
                 title
                 description
                 author
+                siteUrl
             }
         }
     }
