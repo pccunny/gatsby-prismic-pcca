@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `PC Consulting Asia`,
+    title: `SEO Website Optimization & Design`,
         description: 'SEO Website Optimization & Online Marketing using the latest SEO & Web Optimization techniques for your small business website to increase online inquires.',
-    author: `Paul Cunliffe| pcconsultingasia.com`,
+    author: `Paul Cunliffe| PC Consulting Asia`,
+    siteUrl: `https://pcconsultingasia.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -14,6 +15,7 @@ module.exports = {
     `gatsby-plugin-resolve-src`,
     `gatsby-plugin-remove-trailing-slashes`,
     `gatsby-plugin-emotion`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
