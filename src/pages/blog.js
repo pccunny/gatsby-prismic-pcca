@@ -30,8 +30,8 @@ const BlogGrid = styled("div")`
 const Blog = ({ posts, meta }) => (
     <>
         <Helmet
-            title={`Blog | SEO, PC COnsulting Asia`}
-            titleTemplate={`%s | Blog | SEO, PC COnsulting Asia`}
+            title={`Blog | SEO, PC C0nsulting Asia`}
+            titleTemplate={`%s | Blog | SEO, Website Support`}
             meta={[
                 {
                     name: `description`,
