@@ -54,7 +54,7 @@ const Project = ({ project, meta }) => {
     return (
         <>
             <Helmet
-                title={`${project.project_title[0].text} | PCCA, PC-Consulting-Asia`}
+                title={`${project.project_title[0].text} | SEO, PC-Consulting-Asia`}
                 titleTemplate={`%s | ${meta.title}`}
                 meta={[
                     {
@@ -63,7 +63,7 @@ const Project = ({ project, meta }) => {
                     },
                     {
                         property: `og:title`,
-                        content: `${project.project_title[0].text} | PCCA, PC-Consulting-Asia`,
+                        content: `${project.project_title[0].text} | Wordpress Website SEO, Static Websites & Business App`,
                     },
                     {
                         property: `og:description`,

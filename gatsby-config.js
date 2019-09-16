@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `SEO Website Optimization`,
+    title: `PC Consulting Asia`,
         description: 'SEO Website Optimization & Online Marketing using the latest SEO & Web Optimization techniques for your small business website to increase online inquires.',
     author: `Paul Cunliffe| pcconsultingasia.com`,
   },

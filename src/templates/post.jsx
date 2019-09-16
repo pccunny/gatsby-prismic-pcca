@@ -96,7 +96,7 @@ const Post = ({ post, meta }) => {
     return (
         <>
             <Helmet
-                title={`${post.post_title[0].text} | PCCA, PC-Consulting-Asia`}
+                title={`${post.post_title[0].text} | SEO, PC-Consulting-Asia`}
                 titleTemplate={`%s | ${meta.title}`}
                 meta={[
                     {
@@ -105,7 +105,7 @@ const Post = ({ post, meta }) => {
                     },
                     {
                         property: `og:title`,
-                        content: `${post.post_title[0].text} | PCCA, PC-Consulting-Asia`,
+                        content: `${post.post_title[0].text} | SEO Services Phuket`,
                     },
                     {
                         property: `og:description`,
