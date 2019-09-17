@@ -17,8 +17,7 @@ module.exports = {
     `gatsby-plugin-emotion`,
     `gatsby-plugin-sitemap`,
     'gatsby-plugin-robots-txt',
-    `gatsby-transformer-toml' ,
-
+    `gatsby-transformer-toml`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
