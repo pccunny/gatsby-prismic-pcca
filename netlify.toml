@@ -1,44 +1,4 @@
 [[redirects]]
-from = "/pcconsultingasia.com/logo_96/"
-to = "/"
-status = 301
-force = false
-[[redirects]]
-from = "/pcconsultingasia.com/logoweddingcelebrantsized/"
-to = "/"
-status = 301
-force = false
-[[redirects]]
-from = "/pcconsultingasia.com/tn_4/"
-to = "/"
-status = 301
-force = false
-[[redirects]]
-from = "/pcconsultingasia.com/phuket-local-business-magazine-2019/"
-to = "/"
-status = 301
-force = false
-[[redirects]]
-from = "/pcconsultingasia.com/400dpilogo/"
-to = "/"
-status = 301
-force = false
-[[redirects]]
-from = "/pcconsultingasia.com/logo_120-2/"
-to = "/"
-status = 301
-force = false
-[[redirects]]
-from = "/pcconsultingasia.com/woocommerce-placeholder/"
-to = "/"
-status = 301
-force = false
-[[redirects]]
-from = "/pcconsultingasia.com/pc-consulting-seo-optimization-main-logo-1/"
-to = "/"
-status = 301
-force = false
-[[redirects]]
 from = "https://pcconsultingasia.com/tn_5/"
 to = "/"
 status = 301
@@ -520,6 +480,41 @@ status = 301
 force = false
 [[redirects]]
 from = "https://pcconsultingasia.com/paul/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/pc-consulting-seo-optimization-main-logo-1/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/woocommerce-placeholder/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/logo_120-2/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/400dpilogo/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/tn_4/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/logoweddingcelebrantsized/"
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/logo_96/"
 to = "/"
 status = 301
 force = false
