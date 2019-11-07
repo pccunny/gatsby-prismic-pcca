@@ -518,3 +518,45 @@ from = "https://pcconsultingasia.com/logo_96/"
 to = "/"
 status = 301
 force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/portfolio/stress-free/"
+query = {300 = ""}
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/portfolio/experienced-knowledgeable/"
+query = {300 = ""}
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/bikinis-martinis-phuket-magazine-feature/"
+query = {300 = ""}
+to = "/blog/phuket-local-business-magazine-2019"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/product/home-business-tax-return/"
+query = {300 = ""}
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/product-category/uncategorized/"
+query = {300 = ""}
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/what-is-schema-markup-why-its-important-for-seo/"
+query = {300 = ""}
+to = "/"
+status = 301
+force = false
+[[redirects]]
+from = "https://pcconsultingasia.com/my-account/"
+query = {300 = ""}
+to = "/"
+status = 301
+force = false
