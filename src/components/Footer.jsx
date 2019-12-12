@@ -55,7 +55,7 @@ const Footer = () => (
         </Link>
         <FooterAuthor href="https://pcconsultingasia.com">
             © 2019 —Webmaster PC Consulting Asia
-            49/78 Bandon-Cherngtalay Road, Cherngtalay Sub-District, Thalang District,Phuket 83110
+            22/35 Moo.3, Vichit Subdistrict, Muang District, Phuket 83000
             <FooterSpooch className="FooterSpooch" src={spooch} />
         </FooterAuthor>
     </FooterContainer>
