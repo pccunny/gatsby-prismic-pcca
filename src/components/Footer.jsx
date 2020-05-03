@@ -54,7 +54,7 @@ const Footer = () => (
             <Logo/>
         </Link>
         <FooterAuthor href="https://pcconsultingasia.com">
-            © 2019 —Webmaster PC Consulting Asia
+            © 2020 - Webmaster PC Consulting Asia
             22/35 Moo.3, Vichit Subdistrict, Muang District, Phuket 83000
             <FooterSpooch className="FooterSpooch" src={spooch} />
         </FooterAuthor>
