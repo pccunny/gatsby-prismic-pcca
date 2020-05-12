@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `SEO Website Lead Generation Optimization & Design`,
-        description: 'SEO Website Lead Generation Optimization & Online Marketing using the latest SEO, Lead Generation & Web Optimization techniques for your small business website to increase online inquires.',
+    title: ` SEO Website Lead Generation Optimization & Design`,
+        description: 'Phuket SEO Website Optimization & Social Media Marketing using the latest SEO, Lead Generation & Web Optimization techniques to increase online inquires.',
     author: `Paul Cunliffe| PC Consulting Asia`,
     siteUrl: `https://pcconsultingasia.com`,
   },
